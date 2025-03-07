@@ -81,6 +81,6 @@ The scraped data will be saved in `healthline_articles.csv` or `healthline_artic
 
 ## Why Use This Scraper?
 
-✔ **Bypasses anti-bot protections** with Crawlbase.
-✔ **Handles JavaScript-rendered content** seamlessly.
-✔ **Extracts accurate and structured article data** efficiently.
+- ✔ **Bypasses anti-bot protections** with Crawlbase.
+- ✔ **Handles JavaScript-rendered content** seamlessly.
+- ✔ **Extracts accurate and structured article data** efficiently.
